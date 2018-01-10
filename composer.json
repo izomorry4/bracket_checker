@@ -1,0 +1,12 @@
+{
+  "name": "izomorry4/bracket_checker",
+  "description": "First task in Otus",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "izomorry4",
+      "email": "izomorry4@yandex.ru"
+    }
+  ]
+}
