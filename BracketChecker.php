@@ -5,7 +5,7 @@
  * Date: 08.01.2018
  * Time: 15:38
  */
-namespace Brackets;
+namespace Izomorry4\Brackets;
 
 use InvalidArgumentException;
 
