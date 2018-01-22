@@ -5,6 +5,9 @@
  * Date: 08.01.2018
  * Time: 15:38
  */
+namespace Brackets;
+
+use InvalidArgumentException;
 
 class BracketChecker
 {
