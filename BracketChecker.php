@@ -1,5 +1,5 @@
 <?php
-namespace Izomorry4\BracketChecker {
+namespace BracketChecker {
 
     use InvalidArgumentException;
 
