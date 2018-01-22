@@ -3,7 +3,7 @@ namespace Izomorry4\BracketChecker;
 
 use InvalidArgumentException;
 
-class BracketChecker
+class Checker
 {
     const BRACKET_LIST = array("(",")");
     const ALLOW_LIST = array('\x0a','\x09','\x0d','\x20','\x28','\x29');
